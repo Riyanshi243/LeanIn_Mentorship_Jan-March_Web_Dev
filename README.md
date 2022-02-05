@@ -3,4 +3,4 @@
 Milestone 1
 Add a user.
 
-![Screenshot] (list_of_users.png)
+![myimage-alt-tag] ()
